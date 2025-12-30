@@ -1,0 +1,8 @@
+            - 名稱：發布 APK
+  您可以鎖定到特定的提交或版本。
+  # 用途：ShowMeThe/github_action_release@c03188563c3286ccd20cf0d2b1413a134e3cabc9
+  使用：ShowMeThe/github_action_release@v0.01
+  和：
+    # Github 金鑰令牌，用於允許自動發布 APK 版本。
+    GITHUB_TOKEN：# 可選
+          
