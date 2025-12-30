@@ -65,7 +65,7 @@ chmod +x gradlew
 
 ```java
 // 第24行:下载地址
-private static final String DOWNLOAD_URL = "http://45.130.146.21:8080/xiazai";
+private static final String DOWNLOAD_URL = "http://45.x.x.x:8080/xiazai";
 
 // 第25行:保存目录
 private static final String BASE_DIR = "/storage/emulated/0/Netamade/APK";
@@ -125,3 +125,4 @@ APKDownloader/
 ## 📮 联系方式
 
 如有问题或建议,请提交Issue。
+
